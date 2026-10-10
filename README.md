@@ -2,7 +2,7 @@
 
 Hi! I'm Rahul, a current rising junior at New York University. I'm based out of both New York and the Bay Area. 
 
-I interned at Amazon as a Software Development Engineer Intern for Summer 2026!
+I recently finished my internship at Amazon as a Software Development Engineer last summer.
 
 Feel free to contact me at rahulpot07 @ gmail.com or rp4198 @ nyu.edu!
 
