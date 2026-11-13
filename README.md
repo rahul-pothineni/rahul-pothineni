@@ -33,16 +33,9 @@ Most recently, I worked as a **Software Development Engineer Intern at Amazon**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Data & ML**
 
@@ -57,29 +50,6 @@ Most recently, I worked as a **Software Development Engineer Intern at Amazon**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### Featured Projects
-
-| Project | Description | Built With |
-|---------|-------------|------------|
-| [**Gymzy**](https://github.com/rahul-pothineni/Gymzy) | Fitness tracking application | TypeScript |
-| [**TwitchTell**](https://github.com/rahul-pothineni/TwitchTell) | Twitch stream analytics and insights | Python |
-| [**TwitchChatSentimentGolang**](https://github.com/rahul-pothineni/TwitchChatSentimentGolang) | Real-time Twitch chat sentiment analysis | Go |
-| [**YTStep**](https://github.com/rahul-pothineni/YTStep) | YouTube content processing tool | Python |
-| [**OSC_Remote_DockKit**](https://github.com/rahul-pothineni/OSC_Remote_DockKit) | OSC-based remote control for Apple DockKit | JavaScript |
-| [**Voyager-Adaptation**](https://github.com/rahul-pothineni/Voyager-Adaptation) | Adaptation of the Voyager AI agent framework | Python |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-pothineni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-pothineni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
 
 ---
 
