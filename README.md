@@ -2,7 +2,7 @@
 
 Hi! I'm Rahul, a current junior at New York University double majoring in Computer Science and Data Science. I'm based out of both New York City and the Bay Area. 
 
-I recently finished my internship at Amazon as a Software Development Engineer last summer.
+I recently finished an internship as a Software Development Engineer at Amazon last summer.
 
 Feel free to contact me at rahulpot07 @ gmail.com or rp4198 @ nyu.edu!
 
